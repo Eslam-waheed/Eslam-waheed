@@ -18,19 +18,17 @@
 
 🏅 **Achievements**: 
 - Finalist in ACPC (Africa and Arab Collegiate Programming Championship)
-- Co-Founder of ICPC Minya University, mentoring teams for ECPC and ACPC.
+- Co-founder of ICPC Minya University, mentoring teams for ECPC and ACPC.
 
 ---
 
 <h3> Connect With Me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/eslam-waheed-661b54187/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://github.com/Eslam-waheed" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" height="30" width="40" /></a>
-<a href="mailto:eslamwaheed358@gmail.com">
-<img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/eslam-waheed-661b54187/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="mailto:eslamwaheed358@gmail.com">
+  <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="30" width="40" /></a>
 </p>
 
 
