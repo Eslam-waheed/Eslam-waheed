@@ -1,4 +1,53 @@
-<h1 align="center"> Hello Everyone 👋 I'm Eslam Waheed</h1>
+# Hi, I'm Eslam Waheed! 👋  
+### .NET Developer | Full-Stack Developer | Problem Solver
+
+Welcome to my GitHub! I'm a .NET developer passionate about creating scalable, efficient applications. Below are some of the key projects I’ve worked on:
+
+## 🛠 Skills:
+- **Languages**: C#, C++, JavaScript, T-SQL, HTML, CSS
+- **Frameworks & Tools**: .NET Core, ASP.NET MVC, WinForms, Entity Framework Core, Angular
+- **Databases**: SQL Server, Entity Framework
+- **Other Tools**: Git, GitHub, Visual Studio
+
+## 🌟 Featured Projects:
+
+### 1. [Booking Service System](https://github.com/AbdoOo20/Booking-Service-System)
+A full-stack platform where users can book services, and providers can manage their offerings.  
+- **Tech**: ASP.NET Core MVC, Angular, SQL Server, Entity Framework Core.
+
+### 2. [Men’s Beauty Center](https://github.com/Eslam-waheed/Mens_Beauty_Center)
+A desktop app to manage a beauty salon's appointments and employee attendance.  
+- **Tech**: C#, WinForms, Entity Framework Core, SQL Server.
+
+### 3. [Examination System](https://github.com/Eslam-waheed/Examination_System)
+A database-driven system for creating and managing exams with automated grading.  
+- **Tech**: T-SQL, .NET, SQL Server.
+
+### 4. [E-Commerce Website](https://github.com/Eslam-waheed/E-commerce)
+A front-end e-commerce website for browsing and searching products.  
+- **Tech**: HTML, CSS, JavaScript.
+
+## 🏆 Achievements:
+- **ACPC Finalist**: Competed in the Africa and Arab Collegiate Programming Championship (ACPC).
+- **Competitive Programming**: Solved over 2500 problems on platforms like Codeforces, LeetCode, and CodeChef.
+- **ICPC Coach**: Co-founded the ICPC community at Minya University and coached teams for national competitions.
+
+## 🧠 Problem-Solving Expertise:
+- Strong knowledge in **Data Structures**, **Algorithms**, and **Mathematics** from solving competitive programming problems.
+- Experience participating in national and regional programming contests (ICPC, ECPC).
+- Focused on efficient, clean, and maintainable code, applying best practices like SOLID principles and design patterns.
+
+## 🌍 Let's Connect:
+- **LinkedIn**: [Eslam Waheed](https://www.linkedin.com/in/eslam-waheed)
+- **Email**: eslamwaheed358@gmail.com
+
+
+
+
+
+
+
+<!--<h1 align="center"> Hello Everyone 👋 I'm Eslam Waheed</h1>
 <h2 align="center">Full Stack .NET Developer | Competitive Programmer</h2>
 
 🌱 I’m currently building web and desktop applications using .NET technologies and working on honing my problem-solving skills through competitive programming.
@@ -29,7 +78,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="mailto:eslamwaheed358@gmail.com">
   <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="30" width="40" /></a>
-</p>
+</p> -->
 
 
 
