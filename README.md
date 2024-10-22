@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a .NET developer passionate about creating scalable, e
 
 ## 🛠 Skills:
 - **Languages**: C#, C++, JavaScript, T-SQL, HTML, CSS
-- **Frameworks & Tools**: .NET Core, ASP.NET MVC, WinForms, Entity Framework Core, Angular
+- **Frameworks & Tools**: .NET Core, ASP.NET MVC, ASP.NET API, WinForms, Entity Framework Core, Angular
 - **Databases**: SQL Server, Entity Framework
 - **Other Tools**: Git, GitHub, Visual Studio
 
@@ -34,13 +34,13 @@ A front-end e-commerce website for browsing and searching products.
 
 ## 🧠 Problem-Solving Expertise:
 - Strong knowledge in **Data Structures**, **Algorithms**, and **Mathematics** from solving competitive programming problems.
-- Experience participating in national and regional programming contests (ICPC, ECPC).
+- Experience participating in national and regional programming contests (ECPC, ACPC).
 - Focused on efficient, clean, and maintainable code, applying best practices like SOLID principles and design patterns.
 
 ## 🌍 Let's Connect:
 - **LinkedIn**: [Eslam Waheed](https://www.linkedin.com/in/eslam-waheed)
 - **Email**: eslamwaheed358@gmail.com
-
+- **Phone**: +201112428080
 
 
 
